@@ -8,3 +8,4 @@ Este projeto visa divulgar informações sobre o jogo mobile inspirado na série
 <a href="https://www.linkedin.com/in/guilherme-onizio-b71814268/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+![Uploading 2024-02-15 19-44-25 (online-video-cutter.com).gif…]()
